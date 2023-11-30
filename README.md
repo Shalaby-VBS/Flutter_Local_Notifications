@@ -26,12 +26,7 @@
 
 ## 📱 UI
 
-
-
-<p align="center">
-  <img src=""/>
-
-
+https://github.com/Shalaby-VBS/Flutter_Local_Notifications/assets/149938388/5534409a-c325-48b9-b3d7-b91cfb8b0567
 
 ## 🛠 Dependencies
 
